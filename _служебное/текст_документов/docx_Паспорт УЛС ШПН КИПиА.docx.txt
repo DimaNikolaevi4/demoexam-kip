@@ -1,0 +1,429 @@
+
+
+w14:paraId="794E9A3F" w14:textId="5B4E69DD" w:rsidR="00BA609F" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">
+w14:paraId="6A402D3B" w14:textId="3B142A7E" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="0FAEF97F" w14:textId="46A628D2" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="6F78D628" w14:textId="09BC9C85" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="23CD41A8" w14:textId="145C8B5F" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="3D5B7DF9" w14:textId="79FC97B7" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="6A5534A6" w14:textId="61D1B72B" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="456CD7EB" w14:textId="7BA43067" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="64E1DE0B" w14:textId="48104B4D" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="342593C1" w14:textId="20A2113B" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="047BCE2B" w14:textId="1CA0F0E9" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="6546D157" w14:textId="68D9E75F" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="0A8E0F84" w14:textId="06F5F2EE" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="24753BE0" w14:textId="77777777" w:rsidR="00C40DDC" w:rsidRDefault="00C40DDC" w:rsidP="00C34DC8">
+w14:paraId="591315A4" w14:textId="77777777" w:rsidR="00BA609F" w:rsidRPr="00FD2C8A" w:rsidRDefault="00BA609F" w:rsidP="00D21B47">Технический паспорт
+w14:paraId="4C3226B2" w14:textId="0831D891" w:rsidR="00BA609F" w:rsidRDefault="00814CA0" w:rsidP="00D21B47">учебно-лабораторного стенда
+w14:paraId="562A5436" w14:textId="77777777" w:rsidR="00741562" w:rsidRDefault="00741562" w:rsidP="00D21B47">
+w14:paraId="3B0346A4" w14:textId="690A0348" w:rsidR="00BA609F" w:rsidRPr="00741562" w:rsidRDefault="00BA609F" w:rsidP="00D21B47">«УЧЕБНО-ЛАБОРАТОРНЫЙ СТЕНД ПО ПОИСКУ НЕИСПРАВНОСТЕЙ В СИСТЕМАХ АВТОМАТИЧЕСКОГО УПРАВЛЕНИЯ И РЕГУЛИРОВАНИЯ ТЕХНОЛОГИЧЕСКИМИ ПРОЦЕССАМИ»
+w14:paraId="07B9E277" w14:textId="77777777" w:rsidR="00BA609F" w:rsidRDefault="00BA609F" w:rsidP="00D21B47">
+w14:paraId="53D6B776" w14:textId="77777777" w:rsidR="00A97C5D" w:rsidRDefault="00784554" w:rsidP="00F37F29">Для студентов среднего профессионального образования и высшего образования по укрупнённым группам профессий и специальностей:
+w14:paraId="6E413FC9" w14:textId="77777777" w:rsidR="00A97C5D" w:rsidRDefault="00A97C5D" w:rsidP="00A97C5D">УГПС 13.00.00 Электро- и теплоэнергетика;
+w14:paraId="608D3171" w14:textId="47794D12" w:rsidR="00784554" w:rsidRDefault="00A97C5D" w:rsidP="00A97C5D">УГПС 14.00.00 Ядерная энергетика и технологии;
+w14:paraId="138E81B6" w14:textId="32770966" w:rsidR="00A97C5D" w:rsidRDefault="00A97C5D" w:rsidP="00A97C5D">УГПС 15.00.00 Машиностроение;
+w14:paraId="1BB04CB3" w14:textId="28FE3069" w:rsidR="00A97C5D" w:rsidRDefault="00A97C5D" w:rsidP="00A97C5D">УГПС 27.00.00 Управление в технических системах;
+w14:paraId="3A93FD11" w14:textId="06664087" w:rsidR="007F3A5A" w:rsidRPr="00A97C5D" w:rsidRDefault="007F3A5A" w:rsidP="00A97C5D">УГПС 44.00.00 Образование и педагогические науки (Энергетика).
+w14:paraId="1792087C" w14:textId="77777777" w:rsidR="008E5F14" w:rsidRDefault="008E5F14" w:rsidP="00D21B47">
+w14:paraId="6431512D" w14:textId="77777777" w:rsidR="008E5F14" w:rsidRDefault="008E5F14" w:rsidP="00D21B47">
+w14:paraId="60416654" w14:textId="77777777" w:rsidR="008E5F14" w:rsidRDefault="008E5F14" w:rsidP="00D21B47">
+w14:paraId="2F65BD51" w14:textId="77777777" w:rsidR="008E5F14" w:rsidRDefault="008E5F14" w:rsidP="00D21B47">
+w14:paraId="7FEC8752" w14:textId="77777777" w:rsidR="008E5F14" w:rsidRDefault="008E5F14" w:rsidP="00D21B47">
+w14:paraId="7A8B8932" w14:textId="77777777" w:rsidR="008E5F14" w:rsidRDefault="008E5F14" w:rsidP="00D21B47">
+w14:paraId="6B708772" w14:textId="77777777" w:rsidR="008E5F14" w:rsidRDefault="008E5F14" w:rsidP="00D21B47">
+w14:paraId="140FC0E8" w14:textId="44010AA6" w:rsidR="008E5F14" w:rsidRDefault="008E5F14" w:rsidP="00D21B47">
+w14:paraId="77024CDB" w14:textId="0EEAC6B4" w:rsidR="00077633" w:rsidRDefault="00077633" w:rsidP="00D21B47">
+w14:paraId="5FD5A069" w14:textId="2177BEC1" w:rsidR="00077633" w:rsidRDefault="00077633" w:rsidP="00D21B47">
+w14:paraId="09DDA717" w14:textId="175FE0F2" w:rsidR="00077633" w:rsidRDefault="00077633" w:rsidP="00D21B47">
+w14:paraId="5445513F" w14:textId="024AB39C" w:rsidR="00077633" w:rsidRDefault="00077633" w:rsidP="00D21B47">
+w14:paraId="06D9135C" w14:textId="50C85FEE" w:rsidR="00077633" w:rsidRDefault="00077633" w:rsidP="00D21B47">
+w14:paraId="188F5F98" w14:textId="77777777" w:rsidR="00077633" w:rsidRDefault="00077633" w:rsidP="00D21B47">
+w14:paraId="26BD0FD5" w14:textId="77777777" w:rsidR="008E5F14" w:rsidRDefault="008E5F14" w:rsidP="00D21B47">
+w14:paraId="4E37783B" w14:textId="77777777" w:rsidR="008E5F14" w:rsidRDefault="008E5F14" w:rsidP="00D21B47">
+w14:paraId="121E54AE" w14:textId="77777777" w:rsidR="008E5F14" w:rsidRDefault="008E5F14" w:rsidP="00D21B47">
+w14:paraId="02CB7B3E" w14:textId="77777777" w:rsidR="008E5F14" w:rsidRDefault="008E5F14" w:rsidP="00D21B47">
+w14:paraId="4C3C608E" w14:textId="3E6B302E" w:rsidR="00C04EB3" w:rsidRDefault="00BA609F" w:rsidP="00D21B47">2026 г.
+w14:paraId="431FBE0D" w14:textId="669FEB15" w:rsidR="00BA609F" w:rsidRPr="006A7B04" w:rsidRDefault="00BA609F" w:rsidP="006A7B04">СОДЕРЖАНИЕ
+w14:paraId="4479B334" w14:textId="34ACE974" w:rsidR="00C356C0" w:rsidRDefault="006972A2"> TOC \o "1-2" \h \z \u Введение PAGEREF _Toc211849936 \h 3
+w14:paraId="0BDCA0A5" w14:textId="75F34E3C" w:rsidR="00C356C0" w:rsidRDefault="006A558D">1. Паспорт УЧЕБНО-ЛАБОРАТОРНОГО стенда PAGEREF _Toc211849937 \h 4
+w14:paraId="2A0B89BF" w14:textId="248A53AE" w:rsidR="00C356C0" w:rsidRDefault="006A558D">1.1. Назначение и область применения учебно-лабораторного стенда PAGEREF _Toc211849938 \h 4
+w14:paraId="17B039E2" w14:textId="791B4CBB" w:rsidR="00C356C0" w:rsidRDefault="006A558D">1.2. Технические данные стенда PAGEREF _Toc211849939 \h 4
+w14:paraId="5EA9503E" w14:textId="0267BEE1" w:rsidR="00C356C0" w:rsidRDefault="006A558D">1.3. Назначение элементов стенда PAGEREF _Toc211849940 \h 5
+w14:paraId="20783CC2" w14:textId="1E03A056" w:rsidR="00C356C0" w:rsidRDefault="006A558D">1.4. Алгоритм работы учебно-лабораторного стенда PAGEREF _Toc211849941 \h 6
+w14:paraId="3FBF96F9" w14:textId="5E0C7E60" w:rsidR="00C356C0" w:rsidRDefault="006A558D">1.5. Порядок работы PAGEREF _Toc211849942 \h 8
+w14:paraId="340FA6A6" w14:textId="14F493AF" w:rsidR="00C356C0" w:rsidRDefault="006A558D">1.6. Комплектация учебно-лабораторного стенда PAGEREF _Toc211849943 \h 9
+w14:paraId="57790020" w14:textId="74EE9A5A" w:rsidR="00C356C0" w:rsidRDefault="006A558D">2. охрана труда и техника безопасности PAGEREF _Toc211849944 \h 10
+w14:paraId="11AE2CDE" w14:textId="732A9A98" w:rsidR="00BA609F" w:rsidRDefault="006972A2" w:rsidP="006972A2">
+w14:paraId="61FC0954" w14:textId="1A50C74B" w:rsidR="00BA609F" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">
+w14:paraId="1CFEBCB3" w14:textId="30441678" w:rsidR="00BA609F" w:rsidRPr="006A7B04" w:rsidRDefault="00BA609F" w:rsidP="00F43350">Введение
+w14:paraId="7399E90E" w14:textId="1D43DFE4" w:rsidR="00BA609F" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">Настоящий Технический паспорт учебно-лабораторного стенда предназначен к применению в качестве технического описания и инструкции для педагогических работников при организации учебной деятельности студентов в помещениях учреждения при проведении теоретических, практических, лабораторных занятий, а также занятий учебной практики.
+w14:paraId="46A194D8" w14:textId="45632FF5" w:rsidR="00E15FC1" w:rsidRDefault="00E15FC1">
+w14:paraId="1B042D9F" w14:textId="6A1329FA" w:rsidR="00F43350" w:rsidRDefault="00F43350" w:rsidP="00F43350">1. Паспорт УЧЕБНО-ЛАБОРАТОРНОГО стенда
+w14:paraId="3FD7F75D" w14:textId="4068AF63" w:rsidR="00BA609F" w:rsidRPr="001A2F55" w:rsidRDefault="001A2F55" w:rsidP="00E15FC1">1.1. Назначение и область применения учебно-лабораторного стенда
+w14:paraId="5B397CE8" w14:textId="05D0A555" w:rsidR="00BA609F" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">Конструкция и комплектация учебно-лабораторного стенда позволяет выполнять следующие виды работ:
+w14:paraId="77EF4E50" w14:textId="77FDE73D" w:rsidR="00BA609F" w:rsidRDefault="009967BA" w:rsidP="009967BA">Выполнение монтажа систем автоматического управления.
+w14:paraId="0BC954DB" w14:textId="3AA16E6F" w:rsidR="009967BA" w:rsidRDefault="009967BA" w:rsidP="009967BA">Выполнение коммутации систем автоматического управления.
+w14:paraId="5E167682" w14:textId="6D4F8739" w:rsidR="009967BA" w:rsidRDefault="009967BA" w:rsidP="009967BA">Проведение пусконаладочных работ систем автоматического управления.
+w14:paraId="1F03843B" w14:textId="6E15742C" w:rsidR="009967BA" w:rsidRDefault="009967BA" w:rsidP="009967BA">Наладка и программирование систем автоматического управления.
+w14:paraId="4816AD5A" w14:textId="6C03A1D1" w:rsidR="009967BA" w:rsidRDefault="009967BA" w:rsidP="009967BA">Поиск неисправностей в системах автоматического управления.
+w14:paraId="6263B919" w14:textId="39E0F6FE" w:rsidR="00906415" w:rsidRDefault="00906415" w:rsidP="009967BA">Выполнение технического обслуживания шкафов КИПиА (замена и ремонт оборудования).
+w14:paraId="4BB9FD1D" w14:textId="2F27AE0C" w:rsidR="00BA609F" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">Имеется возможность расширения тематики выполнения практических занятий с учетом комбинирования подключаемых в электрические схемы конструктивных элементов и (или) внесения изменений в программный код ПЛР (программируемого логического реле) при формировании конкретных профессиональных компетенций обучаемых и с учетом расширения материально-технической базы.
+w14:paraId="306EBFBD" w14:textId="5B5F612B" w:rsidR="0054384D" w:rsidRDefault="009C2703" w:rsidP="00C34DC8">Учебно-лабораторный стенд возможно применять для проведения промежуточных аттестаций и (или) государственных итоговых аттестаций (демонстрационных экзаменов) в соответствии с модулями задания и проверяемыми компетенциями.
+w14:paraId="5B295C7B" w14:textId="5DCDA231" w:rsidR="009C2703" w:rsidRDefault="0072647B" w:rsidP="00C34DC8">Так же, учебно-лабораторный стенд возможно применять в рамках Всероссийского чемпионатного движения «Профессионалы» как часть конкурсного задания.
+w14:paraId="0424429F" w14:textId="065C8410" w:rsidR="00BA609F" w:rsidRPr="00E15FC1" w:rsidRDefault="00891DD2" w:rsidP="00E15FC1">1.2. Технические данные стенда
+w14:paraId="7E1C7685" w14:textId="3BF08437" w:rsidR="00BA609F" w:rsidRPr="00225604" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">Габариты стенда: В х Ш х Г - 800 х 600 х 300 мм.
+w14:paraId="24FBC554" w14:textId="578EF937" w:rsidR="00BA609F" w:rsidRPr="00225604" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">Материал конструкции стенда:
+w14:paraId="69CDE87A" w14:textId="29BD9B24" w:rsidR="00BA609F" w:rsidRPr="0062575B" w:rsidRDefault="0060200A" w:rsidP="0062575B">сварной металлический каркас (корпус шкафа) с креплением болтами М6.
+w14:paraId="6BB30712" w14:textId="6522E438" w:rsidR="00891DD2" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">Питание стенда: трехпроводная схема (L – N – PE) 1Ф ~230В (50Гц).
+w14:paraId="069A27D7" w14:textId="277A2B6E" w:rsidR="00252B82" w:rsidRDefault="00252B82" w:rsidP="00C34DC8">Функциональное заземление всех металлических частей.
+w14:paraId="14E0ED9C" w14:textId="0DC949E6" w:rsidR="00CF37E6" w:rsidRPr="00252B82" w:rsidRDefault="00CF37E6" w:rsidP="00C34DC8">Ввод для подключения питания: промышленный разъем (Вилка – Розетка) типа ССИ-013, ССИ-113.
+w14:paraId="70C13E75" w14:textId="77777777" w:rsidR="00386987" w:rsidRDefault="00386987">
+w14:paraId="70B3864A" w14:textId="4DA5EB80" w:rsidR="00BA609F" w:rsidRDefault="000D1A6F" w:rsidP="009D1B8D">1.3. Назначение элементов стенда
+w14:paraId="29D1D39B" w14:textId="26BB10CE" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00C34DC8">Учебно-лабораторный стенд состоит из трех основных частей:
+w14:paraId="5BD23E62" w14:textId="3A67877A" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Корпус шкафа.
+w14:paraId="30C538B3" w14:textId="266BF593" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Дверь шкафа.
+w14:paraId="16B8C5FF" w14:textId="39B353D8" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Монтажная панель шкафа.
+w14:paraId="2FA4617B" w14:textId="38FF6F7E" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Дверь и монтажная панель являются съемными.
+w14:paraId="3A650699" w14:textId="1901615C" w:rsidR="0091133D" w:rsidRDefault="00DF6613" w:rsidP="00A93B4E">Монтажная панель расположена в корпусе шкафа и закреплена на гайки.
+w14:paraId="116946E6" w14:textId="09DD31FA" w:rsidR="00DF6613" w:rsidRPr="00DF6613" w:rsidRDefault="00DF6613" w:rsidP="00D14EA9">На боковой стенке корпуса шкафа установлены пять переключателей (S1-S5) предназначенные для внесения неисправностей.
+w14:paraId="3233B20E" w14:textId="51CCA473" w:rsidR="00BA609F" w:rsidRDefault="0007118C" w:rsidP="00C34DC8">Удобное размещение на боковой поверхности учебно-лабораторного стенда пяти переключателей позволяет оперативно менять различные виды неисправностей.
+w14:paraId="078514FD" w14:textId="7E925A49" w:rsidR="002378C2" w:rsidRDefault="002378C2" w:rsidP="00C34DC8">На монтажной панели размещено оборудование комплектации шкафа, кроме ламп индикации и элементов управления (кнопки, переключатели и тд.)
+w14:paraId="1232EE78" w14:textId="50F64EC8" w:rsidR="002378C2" w:rsidRDefault="00745105" w:rsidP="00C34DC8">На двери шкафа расположены лампы индикации и элементы управления для реализации существующего алгоритма управления.
+w14:paraId="79C22B1F" w14:textId="77777777" w:rsidR="002378C2" w:rsidRDefault="002378C2" w:rsidP="00C34DC8">
+w14:paraId="04428F97" w14:textId="46F32AEA" w:rsidR="00BA609F" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">Для методического обеспечения занятий комплектация стенда включает в себя инструкции, схемы, алгоритм работы установки в электронном и бумажном носителе.
+w14:paraId="4FFBDD1D" w14:textId="5B12DF78" w:rsidR="00073177" w:rsidRDefault="00073177">
+w14:paraId="23339B12" w14:textId="671123FA" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">1.4. Алгоритм работы учебно-лабораторного стенда
+w14:paraId="027E2662" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Система управления уровнем
+w14:paraId="3C93319A" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00127D20" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">DI
+w14:paraId="75E2BD08" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="007307BE" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Наименование
+w14:paraId="167AD5D1" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00127D20" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">DO
+w14:paraId="01697AC9" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="007307BE" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Наименование
+w14:paraId="56D98101" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">1
+w14:paraId="7136F63A" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="006B29DD" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">SB1 – Пуск/Стоп системы
+w14:paraId="6490FA5E" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">1
+w14:paraId="28E1C62F" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00013FF2" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">HL1 – Пуск/Стоп системы
+w14:paraId="6777CF65" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">2
+w14:paraId="7A5C38F8" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="004F3363" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">SA1 – Переключатель Ручн/Авт
+w14:paraId="3F0275C9" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">2
+w14:paraId="5C6D64E1" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00013FF2" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">HL5 – Работа насоса
+w14:paraId="54E0D539" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">3
+w14:paraId="5060C432" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="004F3363" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">SA2 – Переключатель Работа/Сервис
+w14:paraId="2B539FDC" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">3
+w14:paraId="422891C4" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00013FF2" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">HL6 - Авария
+w14:paraId="4F01C55A" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">4
+w14:paraId="11FCF34D" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00295C4D" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">SA3 – Переключатель Осн/Резерв
+w14:paraId="300E9023" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">4
+w14:paraId="39BC6D46" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00013FF2" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">HA1 - Звонок
+w14:paraId="2F39897B" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">5
+w14:paraId="4D5BF326" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00AA345E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">ВАУ – Верхний Аварийный Уровень
+w14:paraId="5B8BCCDF" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">5
+w14:paraId="1D3F7F93" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00013FF2" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">KM2 – Основной насос
+w14:paraId="38842136" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">6
+w14:paraId="3FFAE2FE" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00AA345E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">ВУ – Верхний Уровень
+w14:paraId="16E303F7" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">6
+w14:paraId="1E1BDE78" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00013FF2" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">KM3 – Резервный насос
+w14:paraId="5D2157C2" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">7
+w14:paraId="6330A6A2" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">НУ – Нижний Уровень
+w14:paraId="5C758A0A" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">-
+w14:paraId="243D7EC5" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="000D04D2" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">-
+w14:paraId="1EA40712" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">8
+w14:paraId="15AFF5E3" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">НАУ – Нижний Аварийный Уровень
+w14:paraId="1A78CFB9" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00293AD6" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">-
+w14:paraId="27C59FE9" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="000D04D2" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">-
+w14:paraId="50475DF3" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">
+w14:paraId="5CEC02A0" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Выбор Режима Ручн/Авт
+w14:paraId="652D9BAD" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Выбор режима Ручн/Авт осуществляется с помощью переключателя SA1 (0 – Ручной, 1 – Автоматический)
+w14:paraId="21BA16BD" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00192DC9" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Режим функционирует при работе режима Работа.
+w14:paraId="7B0710CC" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Выбор Режима Работа/Сервис
+w14:paraId="591C4E88" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Выбор режима Работа/Сервис осуществляется с помощью переключателя SA2 (0 – Работа, 1 – Сервис)
+w14:paraId="2DFD8AF4" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Режим функционирует в любое время.
+w14:paraId="72C87A6B" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Выбор Режима Осн/Резерв
+w14:paraId="100D5B87" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Выбор режима Осн/Резерв осуществляется с помощью переключателя SA3 (0 – Основной, 1 – Резервный)
+w14:paraId="6B7CF8DF" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Режим функционирует в любое время.
+w14:paraId="34647102" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Режим Ручной
+w14:paraId="0C502615" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00192DC9" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Режим функционирует при работе режима Работа.
+w14:paraId="79D1AAA0" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00BC43D8" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">В ручном режиме система автоматики отключается. 
+w14:paraId="7B8BA266" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Нажатие и удержание кнопки SB1 (Пуск) в течении 5-ти секунд и при наличии сигналов с НАУ, НУ, ВУ включается HL5 и КМ2 или КМ3 (в зависимости от состояния режима Осн/Резерв).
+w14:paraId="36E22103" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Во время удержания SB1 (t=0…5 сек) работает HL1 и HA1.
+w14:paraId="1C19309B" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Дальнейшее удержание SB1 (t>5сек) работает только HL1 и не вызывает реакции системы.
+w14:paraId="0D6A6CD9" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">При отключении сигналов с ВУ и НУ отключается HL1, HL5 и КМ2 или КМ3 (в зависимости от состояния режима Осн/Резерв).
+w14:paraId="46DE7FB2" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="008119C9" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Система переходит в изначальное состояние.
+w14:paraId="60D5B8B6" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Режим Автоматический
+w14:paraId="021C1149" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Режим функционирует при работе режима Работа.
+w14:paraId="09CFD7F8" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00192DC9" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">В автоматическом режиме ручное управление отключается.
+w14:paraId="059CEC4A" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Нажатие кнопки SB1 (Пуск/Стоп системы) включается HL1 и HA1. Через 5 секунд HA1 выключается и запускается система автоматического управления.
+w14:paraId="702176E9" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">При наличии сигналов с НАУ, НУ, ВУ включается HL5 и КМ2 или КМ3 (в зависимости от состояния режима Осн/Резерв).
+w14:paraId="4EDBC7C0" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">При отключении сигналов с ВУ и НУ отключается HL5 и КМ2 или КМ3 (в зависимости от состояния режима Осн/Резерв).
+w14:paraId="608AF47A" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="008119C9" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Система работает в цикле.
+w14:paraId="4DD1E375" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Повторное нажатие кнопки SB1 (Пуск/Стоп системы) отключает HL1 и систему автоматического управления.
+w14:paraId="080FD201" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">
+w14:paraId="61F82350" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Режим Авария
+w14:paraId="076FA1B0" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Режим функционирует при работе режима Ручной или Автоматический.
+w14:paraId="609A8672" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">При отсутствии сигнала с НАУ – полная остановка режимов Ручной или Автоматический, индикация HL6 с частотой 2Гц.
+w14:paraId="2324B562" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="001D222C" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">При наличии сигнала с ВАУ – полная остановка режимов Ручной или Автоматический, индикация HL6 с частотой 4Гц.
+w14:paraId="524F2EA4" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Режим Сервис
+w14:paraId="42BD32B4" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">При работе этого режима режимы Ручной, Автоматический и Авария не функционируют.
+w14:paraId="6F4EF728" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Проверка сигналов датчиков уровня:
+w14:paraId="436CBC95" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00CD5A9E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Наличие сигнала только с НАУ – индикация HL6 с частотой 1Гц.
+w14:paraId="3D8B6E21" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00CD5A9E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Наличие сигнала только с НУ – индикация HL6 с частотой 2Гц.
+w14:paraId="290CC533" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00CD5A9E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Наличие сигнала только с ВУ – индикация HL6 с частотой 4Гц.
+w14:paraId="69F60DDE" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Наличие сигнала только с ВАУ – индикация HL6 с частотой 5Гц.
+w14:paraId="1F7EDD69" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Проверка функционирования устройств:
+w14:paraId="6100BDDD" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Нажатие SB1 1 раз – включение HL1.
+w14:paraId="7480B461" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRPr="00733E33" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Нажатие SB1 2 раз – включение HA1.
+w14:paraId="0894D910" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Нажатие SB1 3 раз – отключение HA1 и включение HL5 и КМ2 или КМ3 (в зависимости от состояния режима Осн/Резерв).
+w14:paraId="5157FCF9" w14:textId="77777777" w:rsidR="00A93B4E" w:rsidRDefault="00A93B4E" w:rsidP="00A93B4E">Нажатие SB1 4 раз – отключение HL1, HL5 и КМ2 или КМ3 (в зависимости от состояния режима Осн/Резерв) и возврат в исходное состояние.
+w14:paraId="064B3C1C" w14:textId="5FA79A5E" w:rsidR="00376B80" w:rsidRDefault="00376B80" w:rsidP="00376B80">
+w14:paraId="1CAEAF7C" w14:textId="77777777" w:rsidR="00EB1C75" w:rsidRPr="00ED6CD0" w:rsidRDefault="00EB1C75" w:rsidP="00EB1C75">1.5. Порядок работы
+w14:paraId="748ED873" w14:textId="206BBAED" w:rsidR="00EB1C75" w:rsidRPr="00CB199D" w:rsidRDefault="00EB1C75" w:rsidP="00EB1C75">К работе на учебно-лабораторном стенде допускаются лица, прошедшие инструктаж по ОТ и ТБ. Работа на стенде предполагает выдачу методических указаний студентам о теме занятия и конкретных задачах учебного задания. Следует указать ожидаемые результаты работы и критерии ее правильного выполнения.
+w14:paraId="27129AA8" w14:textId="5CD37A69" w:rsidR="00EB1C75" w:rsidRDefault="00EB1C75" w:rsidP="00EB1C75">Для работы на учебно-лабораторных стендах необходимо использование измерительных приборов.
+w14:paraId="380BFDCA" w14:textId="3F13FA96" w:rsidR="00556DD2" w:rsidRPr="00CB199D" w:rsidRDefault="00556DD2" w:rsidP="00EB1C75">Поиск неисправностей осуществляется как при поданном питании на электроустановку, так и при отключенном в соответствии с требованиями ОТиТБ.
+w14:paraId="0FC3E1A5" w14:textId="77777777" w:rsidR="00EB1C75" w:rsidRDefault="00EB1C75" w:rsidP="00EB1C75">При завершении работы необходимо выполнить отключение стенда от электрической сети и привести рабочее место в порядок.
+w14:paraId="23AE0BD0" w14:textId="77777777" w:rsidR="00E60201" w:rsidRDefault="00E60201" w:rsidP="00E60201">
+w14:paraId="0D98096F" w14:textId="5EE8CA84" w:rsidR="00EB1C75" w:rsidRPr="00736D8E" w:rsidRDefault="00EB1C75" w:rsidP="00C356C0">Задание
+w14:paraId="48FB369B" w14:textId="1D3D391A" w:rsidR="004B556B" w:rsidRPr="00E73B84" w:rsidRDefault="0088435F" w:rsidP="004B556B">Необходимо найти 5 заранее подготовленных неисправностей в электроустановке, отметить их на принципиальной электрической схеме электроустановки кругом и номером неисправности.
+w14:paraId="686AC3E7" w14:textId="3A11E009" w:rsidR="004B556B" w:rsidRPr="00E73B84" w:rsidRDefault="004B556B" w:rsidP="004B556B">Поиск неисправностей осуществляется как при поданном питании на электроустановку, так и при отключенном в соответствии с требованиями ОТиТБ.
+w14:paraId="62EA6ED3" w14:textId="77777777" w:rsidR="004B556B" w:rsidRPr="00642BC4" w:rsidRDefault="004B556B" w:rsidP="004B556B">Виды неисправностей:
+w14:paraId="6668A665" w14:textId="7B9FB29B" w:rsidR="004B556B" w:rsidRDefault="004B556B" w:rsidP="004B556B">
+w14:paraId="1D491857" w14:textId="77777777" w:rsidR="00C43CD8" w:rsidRDefault="00C43CD8" w:rsidP="00C43CD8">1. Обрыв
+w14:paraId="183770AA" w14:textId="77777777" w:rsidR="00C43CD8" w:rsidRDefault="00C43CD8" w:rsidP="00C43CD8">
+w14:paraId="21E9DFEF" w14:textId="77777777" w:rsidR="00C43CD8" w:rsidRPr="00EB2CA6" w:rsidRDefault="00C43CD8" w:rsidP="00C43CD8">2. Замыкание контакта (отсутствие смены режима работы замыкающего контакта (Нормально открытого)).
+w14:paraId="244093D1" w14:textId="77777777" w:rsidR="00C43CD8" w:rsidRDefault="00C43CD8" w:rsidP="00C43CD8">
+w14:paraId="6BA69340" w14:textId="77777777" w:rsidR="00C66D8F" w:rsidRPr="009B6080" w:rsidRDefault="00C66D8F" w:rsidP="00C66D8F">Заданием не предусмотрены неисправности:
+w14:paraId="706BFB01" w14:textId="77777777" w:rsidR="00C66D8F" w:rsidRPr="009B6080" w:rsidRDefault="00C66D8F" w:rsidP="00C66D8F">1. Короткое замыкание на линии питания;
+w14:paraId="79893FD5" w14:textId="77777777" w:rsidR="00C66D8F" w:rsidRPr="009B6080" w:rsidRDefault="00C66D8F" w:rsidP="00C66D8F">2. Неисправное оборудование.
+w14:paraId="2162D2EE" w14:textId="77777777" w:rsidR="00C66D8F" w:rsidRDefault="00C66D8F" w:rsidP="00C66D8F">
+w14:paraId="6BAC4991" w14:textId="53AB3F41" w:rsidR="00C66D8F" w:rsidRDefault="00C66D8F" w:rsidP="00C66D8F">Неисправности вносятся в электроустановку путем переключения двухпозиционных переключателей S1-S5 экспертом. 
+w14:paraId="4B8F3B15" w14:textId="77777777" w:rsidR="00C66D8F" w:rsidRPr="009B6080" w:rsidRDefault="00C66D8F" w:rsidP="00C66D8F">Одновременно может быть включена только одна неисправность.
+w14:paraId="50DA74C3" w14:textId="77777777" w:rsidR="00C66D8F" w:rsidRDefault="00C66D8F" w:rsidP="00C66D8F">Запускать установку без неисправностей запрещено.
+w14:paraId="67BE3866" w14:textId="77777777" w:rsidR="00C66D8F" w:rsidRPr="000819D8" w:rsidRDefault="00C66D8F" w:rsidP="00C66D8F">При переключении неисправностей НЕОБХОДИМО полностью обесточивать шкаф поиска неисправностей (ШПН).
+w14:paraId="05AF93A2" w14:textId="72DFF92F" w:rsidR="00FB42A2" w:rsidRDefault="00FB42A2">
+w14:paraId="1E5AB024" w14:textId="438BD162" w:rsidR="00BA609F" w:rsidRDefault="00922587" w:rsidP="00922587">1.6. Комплектация учебно-лабораторного стенда
+w14:paraId="18240782" w14:textId="77777777" w:rsidR="003E523B" w:rsidRPr="000B4A68" w:rsidRDefault="003E523B" w:rsidP="000B4A68">№ п/п
+w14:paraId="3940C312" w14:textId="77777777" w:rsidR="003E523B" w:rsidRPr="000B4A68" w:rsidRDefault="003E523B" w:rsidP="000B4A68">Обозначение
+w14:paraId="04884FE7" w14:textId="77777777" w:rsidR="003E523B" w:rsidRPr="000B4A68" w:rsidRDefault="003E523B" w:rsidP="000B4A68">Наименование
+w14:paraId="7C6DF388" w14:textId="77777777" w:rsidR="003E523B" w:rsidRPr="000B4A68" w:rsidRDefault="003E523B" w:rsidP="000B4A68">Кол-во
+w14:paraId="30DD49E8" w14:textId="350AC399" w:rsidR="003E523B" w:rsidRPr="000B4A68" w:rsidRDefault="003E523B" w:rsidP="000B4A68">Ед. изм.
+w14:paraId="2CF19BD3" w14:textId="77777777" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="5D81B4C3" w14:textId="56E5B1C5" w:rsidR="0039017D" w:rsidRPr="00C925B3" w:rsidRDefault="00C925B3" w:rsidP="00C925B3">А1
+w14:paraId="026A67F4" w14:textId="7E452FA6" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Программируемое реле ПР200-220.2.0.0
+w14:paraId="4722A2AE" w14:textId="4D18F518" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="40E26905" w14:textId="5ACD36E8" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="38D33673" w14:textId="35C1500A" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">2
+w14:paraId="19DC9F77" w14:textId="543B0409" w:rsidR="0039017D" w:rsidRPr="003F4772" w:rsidRDefault="003F4772" w:rsidP="00C925B3">Q1
+w14:paraId="3FDE48DC" w14:textId="3F41DCF4" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Выключатель нагрузки 2п ВН-32 25А
+w14:paraId="4D9DF557" w14:textId="36D159D6" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="638C0AE9" w14:textId="0DC04EEE" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="2393EE4C" w14:textId="0BFB0A55" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">3
+w14:paraId="7D2994B9" w14:textId="4A70F14D" w:rsidR="0039017D" w:rsidRPr="003F4772" w:rsidRDefault="003F4772" w:rsidP="00C925B3">УЗМ
+w14:paraId="3F3B8979" w14:textId="5CC65AF9" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Устройство защиты УЗМ-51М УХЛ4
+w14:paraId="6A15C1FE" w14:textId="56104885" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="15BC2B27" w14:textId="25A0C27A" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="058A3071" w14:textId="475D521B" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">4
+w14:paraId="217104BE" w14:textId="20F82814" w:rsidR="0039017D" w:rsidRPr="00142A2F" w:rsidRDefault="00142A2F" w:rsidP="00C925B3">QFD1
+w14:paraId="07CFAE84" w14:textId="409CF699" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Выключатель автоматический дифференциальный АВДТ-32 1п+N 16А 30мА
+w14:paraId="4566A7FD" w14:textId="6B59D8EF" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="433A4B07" w14:textId="235176C6" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="025C49A7" w14:textId="162DD008" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">5
+w14:paraId="29823601" w14:textId="101E2BD9" w:rsidR="0039017D" w:rsidRPr="00142A2F" w:rsidRDefault="00142A2F" w:rsidP="00C925B3">QF1…QF5
+w14:paraId="035E8FE6" w14:textId="60AD13E3" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Выключатель автоматический однополюсный 6А C 4.5кА
+w14:paraId="5DC31244" w14:textId="72E770B8" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">5
+w14:paraId="4589FC9F" w14:textId="0746431B" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="5BAF7219" w14:textId="7692831E" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">6
+w14:paraId="74B90325" w14:textId="71725CAF" w:rsidR="0039017D" w:rsidRPr="00142A2F" w:rsidRDefault="00142A2F" w:rsidP="00C925B3">XS1
+w14:paraId="78BA8904" w14:textId="6AE0D02B" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Розетка на DIN-рейку
+w14:paraId="272751EB" w14:textId="3B26C91B" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="6320764B" w14:textId="2D8906A0" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="7D7F5B55" w14:textId="4C3548D2" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">7
+w14:paraId="19DFC9B0" w14:textId="7771B9DC" w:rsidR="0039017D" w:rsidRPr="00142A2F" w:rsidRDefault="00142A2F" w:rsidP="00C925B3">KM1…KM3
+w14:paraId="39491784" w14:textId="4D9EE041" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Контактор 9А 230В_АС АС3_ АС4 1НО+1НЗ КМ-102
+w14:paraId="4417EDBB" w14:textId="3D87EB13" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">3
+w14:paraId="5BB2A037" w14:textId="7CCFFB38" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="3D2C8559" w14:textId="1A837183" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">8
+w14:paraId="70048C8F" w14:textId="70516003" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="00142A2F" w:rsidP="00C925B3">SA1…SA7, S1…S5
+w14:paraId="799132FF" w14:textId="630E0756" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Переключатель AC-2 22мм 2 позиции
+w14:paraId="525E53F3" w14:textId="38FC0524" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">12
+w14:paraId="543D3256" w14:textId="51E57E0A" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="2A12433D" w14:textId="3FA673F9" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">9
+w14:paraId="19AA383B" w14:textId="2139FCEA" w:rsidR="0039017D" w:rsidRPr="00142A2F" w:rsidRDefault="00142A2F" w:rsidP="00C925B3">SA0
+w14:paraId="323BE456" w14:textId="2C3C5366" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Кнопка красная AEA-22 Гриб 220В ВK-22
+w14:paraId="3EB373DC" w14:textId="213A549D" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="68703FA4" w14:textId="6C2138A5" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="2F9114EA" w14:textId="76B4151A" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">10 
+w14:paraId="6BDC2867" w14:textId="318BC468" w:rsidR="0039017D" w:rsidRPr="00142A2F" w:rsidRDefault="00142A2F" w:rsidP="00C925B3">SB1
+w14:paraId="7806D79F" w14:textId="21582BC6" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Кнопка зеленая выключения ABLF-22 220В ВK-22
+w14:paraId="398AF7A8" w14:textId="117EBB26" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="66AD1D5A" w14:textId="51870B2D" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="508C7B79" w14:textId="1E743C12" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">11
+w14:paraId="3869BD14" w14:textId="528CAD87" w:rsidR="0039017D" w:rsidRPr="00142A2F" w:rsidRDefault="00142A2F" w:rsidP="00C925B3">HA1
+w14:paraId="4B87863A" w14:textId="4E941BDA" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Звонок ЗД-47
+w14:paraId="2935305F" w14:textId="7410B633" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="6BF95A5F" w14:textId="44C4934A" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="423858EC" w14:textId="240036C4" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">12
+w14:paraId="06B83FFD" w14:textId="35D35551" w:rsidR="0039017D" w:rsidRPr="00142A2F" w:rsidRDefault="00142A2F" w:rsidP="00C925B3">HL1, HL2, HL5, HL7, HL8 
+w14:paraId="657B6FC0" w14:textId="22FD5AA1" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Лампа AD22DS LED матрица 22мм зеленый 230В
+w14:paraId="4B7B0459" w14:textId="4903665F" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">5
+w14:paraId="7EFBA497" w14:textId="445364D6" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="17D17C88" w14:textId="24DC8F1A" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">13
+w14:paraId="5AA31976" w14:textId="5F01C23E" w:rsidR="0039017D" w:rsidRPr="007F2DD9" w:rsidRDefault="007F2DD9" w:rsidP="00C925B3">HL3, HL4
+w14:paraId="3E14BC94" w14:textId="6C8AA38F" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Лампа AD-22DS LED матрица 22мм желтый 230В
+w14:paraId="3C934525" w14:textId="046D9887" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">2
+w14:paraId="1A8B1B3C" w14:textId="4E502F3F" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="1AE430D3" w14:textId="5C4D2EA4" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">14
+w14:paraId="3F31E1AC" w14:textId="410C1885" w:rsidR="0039017D" w:rsidRPr="007F2DD9" w:rsidRDefault="007F2DD9" w:rsidP="00C925B3">HL6
+w14:paraId="77AB6736" w14:textId="1DB19352" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Лампа AD22DS LED матрица 22мм красный 230В
+w14:paraId="05A379C2" w14:textId="0B0E6D32" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="594070C8" w14:textId="753164FE" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="521A02DD" w14:textId="11C780E8" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">15
+w14:paraId="4AECC5D4" w14:textId="77777777" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="00C925B3">
+w14:paraId="786E4548" w14:textId="406D79B2" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Держатель маркировки d22 20x25мм
+w14:paraId="3964D13E" w14:textId="402C1DAA" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">25
+w14:paraId="0D585A56" w14:textId="02FC4DB4" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="0F9D0B56" w14:textId="46B9D933" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">16
+w14:paraId="16C88F21" w14:textId="4AE8646E" w:rsidR="0039017D" w:rsidRPr="009B6E10" w:rsidRDefault="009B6E10" w:rsidP="00C925B3">X0
+w14:paraId="272790E6" w14:textId="42E27163" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Розетка кабельная 16А 2Р+E IР44 на поверхность 230В 113
+w14:paraId="33EE8BF7" w14:textId="04FA9EFC" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="1988B807" w14:textId="243D9562" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="495F3015" w14:textId="20A60BB8" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">17
+w14:paraId="63C46F64" w14:textId="4CA51BB0" w:rsidR="0039017D" w:rsidRPr="009B6E10" w:rsidRDefault="009B6E10" w:rsidP="00C925B3">X0
+w14:paraId="01F24066" w14:textId="0424C700" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Вилка кабельная 16А 2Р+E IР44 переносная 250В 013
+w14:paraId="459D4034" w14:textId="48964217" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="40E48526" w14:textId="6998A3C6" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="216DB297" w14:textId="62F7D14D" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">18
+w14:paraId="08691304" w14:textId="096E4B55" w:rsidR="0039017D" w:rsidRPr="009B6E10" w:rsidRDefault="009B6E10" w:rsidP="00C925B3">ШПН
+w14:paraId="420B30DB" w14:textId="11F2EAEC" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Щит с монтажной панелью ЩМП 800x600x300
+w14:paraId="425E286F" w14:textId="03A8B89C" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">1
+w14:paraId="14FF24AE" w14:textId="1FCFC53D" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="763034EE" w14:textId="2D1270C9" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">19
+w14:paraId="326B860C" w14:textId="269677E9" w:rsidR="0039017D" w:rsidRPr="009B6E10" w:rsidRDefault="009B6E10" w:rsidP="00C925B3">X1…X10
+w14:paraId="6202504D" w14:textId="2F2B21BF" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">Клемма пружинная КПИ 2в-2,5 31А серый
+w14:paraId="0DCF80ED" w14:textId="68F4A5D7" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">50
+w14:paraId="6E99CE57" w14:textId="00CE74A1" w:rsidR="0039017D" w:rsidRPr="000B4A68" w:rsidRDefault="0039017D" w:rsidP="0039017D">шт
+w14:paraId="4210C9E3" w14:textId="670F3C45" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">20
+w14:paraId="191DE495" w14:textId="2CA3152C" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">X1…X10
+w14:paraId="2AD6D6D0" w14:textId="24BA7734" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">Клемма пружинная КПИ 2в-2,5 31А синий
+w14:paraId="0EFBA343" w14:textId="68EECD84" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">50
+w14:paraId="6643005B" w14:textId="0B5CF233" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">шт
+w14:paraId="7AFB28AF" w14:textId="548204FC" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">21
+w14:paraId="1054A934" w14:textId="66C991BE" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">X1…X10
+w14:paraId="1AEBEB76" w14:textId="207BBF10" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">Клемма пружинная КПИ 2в-2,5-PEN
+w14:paraId="67B4D0DA" w14:textId="201FDC1A" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">10
+w14:paraId="275ACC7E" w14:textId="07C43A5E" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">шт
+w14:paraId="08FA0710" w14:textId="5268998D" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">22
+w14:paraId="7AED9E84" w14:textId="73E92598" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">X1…X10
+w14:paraId="08E72684" w14:textId="465D92FE" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">Заглушка для КПИ 2в-1,5/2,5 серая
+w14:paraId="26BD5379" w14:textId="76B3924A" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">20
+w14:paraId="49710BF7" w14:textId="0DFFCABB" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">шт
+w14:paraId="55E7D0B9" w14:textId="162602D5" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">23
+w14:paraId="393F200D" w14:textId="54347154" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">X1…X10
+w14:paraId="45BD5A34" w14:textId="0EDCED5F" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">Перемычка для КПИ-2,5мм2 2PIN
+w14:paraId="0C3A61AC" w14:textId="0BF7BED4" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">10
+w14:paraId="354DD177" w14:textId="291127F6" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">шт
+w14:paraId="0435B6C7" w14:textId="0BDAD337" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">24
+w14:paraId="1BB1A0D9" w14:textId="1177AEA4" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">X1…X10
+w14:paraId="08747349" w14:textId="4C8B19D9" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">Перемычка для КПИ-2,5мм2 3PIN
+w14:paraId="767771D0" w14:textId="5FF34175" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">10
+w14:paraId="3D142D0D" w14:textId="1236D728" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">шт
+w14:paraId="52EE6243" w14:textId="58F97C73" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">25
+w14:paraId="1E3C835A" w14:textId="70555B9F" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">X1…X10
+w14:paraId="1287D376" w14:textId="0F6B667D" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">Перемычка для КПИ-2,5мм2 10PIN
+w14:paraId="7FC81F71" w14:textId="0717C413" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">10
+w14:paraId="0E877ABD" w14:textId="5CE8E000" w:rsidR="009B6E10" w:rsidRPr="000B4A68" w:rsidRDefault="009B6E10" w:rsidP="009B6E10">шт
+w14:paraId="339B6287" w14:textId="7C483FF2" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">26
+w14:paraId="6B1F9DA5" w14:textId="5E6ED9C7" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">X1…X10
+w14:paraId="36EFC385" w14:textId="264775EB" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Концевой стопор (ограничитель с маркировкой) на DIN-рейку IEK
+w14:paraId="272C9378" w14:textId="2F36F9FE" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">30
+w14:paraId="03E66189" w14:textId="6CE6469D" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">шт
+w14:paraId="19C4C8FD" w14:textId="3981EDAE" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">27
+w14:paraId="2D5F4935" w14:textId="08D824E8" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">X1…X10
+w14:paraId="3B88520B" w14:textId="1E838E2B" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Держатель маркировки для КПИ на концевой стопор
+w14:paraId="77C03706" w14:textId="63ACCB7A" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">20
+w14:paraId="6B1EC6E6" w14:textId="592FD8B0" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">шт
+w14:paraId="04AA7320" w14:textId="22E48ED9" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">28
+w14:paraId="1A0F4CB2" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="57FE19BC" w14:textId="37F1BA46" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Кабель-канал перфорированный 40х60 L2000
+w14:paraId="4A2E2FAA" w14:textId="6EBB4133" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">3
+w14:paraId="12756BBB" w14:textId="1B98C842" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">шт
+w14:paraId="49CC5262" w14:textId="48B1953F" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">29
+w14:paraId="3E815F34" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="042E336C" w14:textId="4F83E12D" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Кабель-канал 60х60 L2000
+w14:paraId="7B776E6D" w14:textId="6698DAA0" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">1
+w14:paraId="06C1AF01" w14:textId="4F474A2B" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">шт
+w14:paraId="2D796004" w14:textId="19AF9BA0" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">30
+w14:paraId="24653433" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="59904B96" w14:textId="11625BB5" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">DIN-рейка перфорированная 35х7,5мм
+w14:paraId="0FB0A923" w14:textId="187CBAE7" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">2
+w14:paraId="321CFF41" w14:textId="7CF52451" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">шт
+w14:paraId="24E0EE66" w14:textId="60FE1463" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">31
+w14:paraId="64267E5E" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="33CAC8A5" w14:textId="0564F8DD" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Провод ПуГВнг(А)-LS 1х0,75кр
+w14:paraId="05803C62" w14:textId="7B740247" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">100
+w14:paraId="4FA19BDB" w14:textId="637F2951" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">м
+w14:paraId="051D5F1A" w14:textId="3C8C53E6" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">32
+w14:paraId="52D60FDB" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="792B3339" w14:textId="0DABDC0D" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Провод ПуГВнг(А)-LS 1х0,75 Ч
+w14:paraId="09591CC7" w14:textId="3D60EDCB" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">50
+w14:paraId="3AC61F7B" w14:textId="2060E5DD" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">м
+w14:paraId="65E8EBA2" w14:textId="0FEC41B5" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">33
+w14:paraId="33A48AB5" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="4A6A07F6" w14:textId="1525A72E" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Провод ПуГВнг(A)-LS 1х1,5 ЖЗ
+w14:paraId="60C049C6" w14:textId="31FF6AC8" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">10
+w14:paraId="231E6231" w14:textId="405F162B" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">м
+w14:paraId="70A0DE83" w14:textId="4BB7ABFD" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">34
+w14:paraId="66853D4D" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="208D9A9A" w14:textId="608B5BFC" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Провод ПВС 3х2.5
+w14:paraId="7370C170" w14:textId="09D18912" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">10
+w14:paraId="0FA2C801" w14:textId="1AE24305" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">м
+w14:paraId="4B070D0F" w14:textId="251DC727" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">35
+w14:paraId="688CDA3A" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="7E9CE4D8" w14:textId="5D54CF4D" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Наконечник НШВИ 0,75-8 (100 шт)
+w14:paraId="64042362" w14:textId="37ABEC36" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">2
+w14:paraId="041D3FED" w14:textId="7531D0A8" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">упак
+w14:paraId="34B740F8" w14:textId="4B040749" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">36
+w14:paraId="75444A39" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="57E06EA2" w14:textId="19A1A760" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Наконечник НШВИ2 0,75-8
+w14:paraId="5801157E" w14:textId="59EEB01E" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">10
+w14:paraId="78FF376A" w14:textId="131EC5EE" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">шт
+w14:paraId="5BF40F46" w14:textId="13600F7B" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">37
+w14:paraId="3CFADD73" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="7F0E69A1" w14:textId="46367BFA" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Наконечник НШВИ 1,5-8
+w14:paraId="66F7320F" w14:textId="4A8BC4D7" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">10
+w14:paraId="3140F71C" w14:textId="1E9BE98B" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">шт
+w14:paraId="264ED435" w14:textId="65776860" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">38
+w14:paraId="392FAAD4" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="74B95BFB" w14:textId="0A04F007" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Наконечник НКИ 1.5-6
+w14:paraId="060AABA4" w14:textId="45DF0868" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">10
+w14:paraId="615E270A" w14:textId="5E5B482B" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">шт
+w14:paraId="7D5EAD9F" w14:textId="6EF8730A" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">39
+w14:paraId="34379F67" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="54EB08F6" w14:textId="7A78EA79" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Наконечник НКИ 2.5-8
+w14:paraId="57C39756" w14:textId="71708465" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">10
+w14:paraId="2120122A" w14:textId="6EEC8F2E" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">шт
+w14:paraId="4F6DD6A4" w14:textId="6EC62E32" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">40
+w14:paraId="43D03635" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="25BC66EC" w14:textId="0BC80B10" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Хомут 100х2.5мм (100 шт)
+w14:paraId="47C53324" w14:textId="033D8E7E" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">1
+w14:paraId="61215B9F" w14:textId="043DD7B1" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">упак
+w14:paraId="666D531D" w14:textId="17EAAAA9" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">41
+w14:paraId="0B1A7A6C" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="11D73084" w14:textId="145D15E5" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Площадка самоклеющаяся 20х20мм (100 шт)
+w14:paraId="076D0309" w14:textId="003D2069" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">1
+w14:paraId="33C8D77F" w14:textId="53885E11" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">упак
+w14:paraId="75DD8BE1" w14:textId="79C38342" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">42
+w14:paraId="4F4C1E5D" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="3635B7B8" w14:textId="521DA4B1" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Спираль монтажная СМ-06-04 (10 м)
+w14:paraId="45D5D0D4" w14:textId="072FCC7E" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">1
+w14:paraId="05828392" w14:textId="318D97EE" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">упак
+w14:paraId="797C89F3" w14:textId="0658D231" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">43
+w14:paraId="39C538D9" w14:textId="77777777" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">
+w14:paraId="5E22A330" w14:textId="56440479" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">Сальник PG16 (9-13мм)
+w14:paraId="71DB57C7" w14:textId="752B52C1" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">1
+w14:paraId="045C72AE" w14:textId="200A5290" w:rsidR="002D22E9" w:rsidRPr="000B4A68" w:rsidRDefault="002D22E9" w:rsidP="002D22E9">шт
+w14:paraId="5FA11983" w14:textId="77777777" w:rsidR="00BA609F" w:rsidRDefault="00BA609F" w:rsidP="00F43350"/>
+w14:paraId="43FDBDEB" w14:textId="77777777" w:rsidR="004F5C0A" w:rsidRDefault="004F5C0A" w:rsidP="0076743E">
+w14:paraId="6487263D" w14:textId="2055BB43" w:rsidR="00BA609F" w:rsidRPr="003E5149" w:rsidRDefault="003E5149" w:rsidP="003E5149">2. охрана труда и техника безопасности
+w14:paraId="2FD2ECF8" w14:textId="13FDABB2" w:rsidR="00BA609F" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">Основными мерами обеспечения безопасной работы на стенде являются соблюдение ПУЭ при работе с электроустановками до 1000 В. В начале учебных занятий следует актуализировать у студентов основные правила электробезопасности.
+w14:paraId="49D9B4C5" w14:textId="732E82E5" w:rsidR="00BA609F" w:rsidRPr="00C136D0" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">До начала работы на стенде преподавателю (мастеру п/о) следует убедиться в исправном состоянии заземляющего проводника до контура заземления в помещении кабинета, а также в отсутствии напряжения на автоматическом выключателе учебного стенда.
+w14:paraId="3FF8B8C4" w14:textId="40DFB538" w:rsidR="00BA609F" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">В помещении кабинета при проведении учебных занятий на стенде следует обеспечить необходимый уровень освещения рабочих мест. Предусмотрено наличие инструкций по охране труда, пожарной безопасности, огнетушителя и медицинской аптечки в помещении учебного кабинета.
+w14:paraId="43D510D1" w14:textId="7EF9A2D7" w:rsidR="00BA609F" w:rsidRDefault="00BA609F" w:rsidP="00C34DC8">Подавать напряжение от общего выключателя на вводной автоматический выключатель на стенде следует только убедившись, что никто не прикасается к токоведущим частям, после разрешения преподавателя.

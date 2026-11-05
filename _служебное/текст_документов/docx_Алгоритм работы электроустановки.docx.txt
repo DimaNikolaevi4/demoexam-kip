@@ -1,0 +1,67 @@
+
+
+w14:paraId="188B4E52" w14:textId="1C938757" w:rsidR="00AA345E" w:rsidRDefault="00D53095" w:rsidP="00AA345E">Алгоритм работы электроустановки
+w14:paraId="62BBCBD3" w14:textId="044B1CB5" w:rsidR="00DD3A55" w:rsidRDefault="00DD3A55" w:rsidP="00AA345E">Система автоматического управления
+w14:paraId="33486626" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00127D20" w:rsidRDefault="00405F25" w:rsidP="00C63F5D">DI
+w14:paraId="7B8388C8" w14:textId="6189A9D6" w:rsidR="00405F25" w:rsidRPr="007307BE" w:rsidRDefault="007307BE" w:rsidP="00C63F5D">Наименование
+w14:paraId="00235DB7" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00127D20" w:rsidRDefault="00405F25" w:rsidP="00C63F5D">DO
+w14:paraId="67CEEF19" w14:textId="2EFC1A04" w:rsidR="00405F25" w:rsidRPr="007307BE" w:rsidRDefault="007307BE" w:rsidP="00C63F5D">Наименование
+w14:paraId="14DEEBB0" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">1
+w14:paraId="4704763C" w14:textId="4BC1075A" w:rsidR="00405F25" w:rsidRPr="006B29DD" w:rsidRDefault="005845CC" w:rsidP="009A7E63">SB1
+w14:paraId="1138B796" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">1
+w14:paraId="47E7BC86" w14:textId="03360DEE" w:rsidR="00405F25" w:rsidRPr="00013FF2" w:rsidRDefault="00013FF2" w:rsidP="009A7E63">HL1
+w14:paraId="4FBBF0C7" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">2
+w14:paraId="7810DEAD" w14:textId="1238CD0F" w:rsidR="00405F25" w:rsidRPr="004F3363" w:rsidRDefault="005845CC" w:rsidP="009A7E63">SA1
+w14:paraId="3A3B91A1" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">2
+w14:paraId="1A4E8DDB" w14:textId="67602433" w:rsidR="00405F25" w:rsidRPr="00013FF2" w:rsidRDefault="00013FF2" w:rsidP="009A7E63">HL2
+w14:paraId="0C8A6AF0" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">3
+w14:paraId="35352971" w14:textId="5AF49851" w:rsidR="00405F25" w:rsidRPr="004F3363" w:rsidRDefault="005845CC" w:rsidP="009A7E63">S1
+w14:paraId="5383ACFD" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">3
+w14:paraId="7D90570C" w14:textId="2658CC4C" w:rsidR="00405F25" w:rsidRPr="00013FF2" w:rsidRDefault="00013FF2" w:rsidP="009A7E63">HL3
+w14:paraId="4E4B8967" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">4
+w14:paraId="42E309A6" w14:textId="108B75A3" w:rsidR="00405F25" w:rsidRPr="004F5134" w:rsidRDefault="004F5134" w:rsidP="009A7E63">-
+w14:paraId="1AF60391" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">4
+w14:paraId="6AF3987B" w14:textId="676D372A" w:rsidR="00405F25" w:rsidRPr="00586426" w:rsidRDefault="00586426" w:rsidP="009A7E63">-
+w14:paraId="45F760E7" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">5
+w14:paraId="3E4D68C4" w14:textId="404DF6D8" w:rsidR="00405F25" w:rsidRPr="00AA345E" w:rsidRDefault="004F5134" w:rsidP="009A7E63">К1 - Работа
+w14:paraId="3AB901CB" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">5
+w14:paraId="6686935F" w14:textId="1BFFDDEE" w:rsidR="00405F25" w:rsidRPr="00013FF2" w:rsidRDefault="00013FF2" w:rsidP="009A7E63">K1 - Пуск
+w14:paraId="798C699C" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">6
+w14:paraId="1ABC8E32" w14:textId="3A9131DA" w:rsidR="00405F25" w:rsidRPr="00AA345E" w:rsidRDefault="004F5134" w:rsidP="009A7E63">К2 - Работа
+w14:paraId="4EA7C5D7" w14:textId="14777C36" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">6
+w14:paraId="155DB35B" w14:textId="1A038894" w:rsidR="00405F25" w:rsidRPr="00013FF2" w:rsidRDefault="00013FF2" w:rsidP="009A7E63">K2 - Реверс
+w14:paraId="0FBC8915" w14:textId="67B95B77" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">7
+w14:paraId="4EE3B2C9" w14:textId="5271F29A" w:rsidR="00405F25" w:rsidRDefault="004F5134" w:rsidP="009A7E63">-
+w14:paraId="104E9FCA" w14:textId="1D0F7A8C" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">-
+w14:paraId="3354C8E6" w14:textId="6579D629" w:rsidR="00405F25" w:rsidRPr="000D04D2" w:rsidRDefault="000D04D2" w:rsidP="009A7E63">-
+w14:paraId="4555288D" w14:textId="0A1862D3" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">8
+w14:paraId="6F019425" w14:textId="3B49122F" w:rsidR="00405F25" w:rsidRDefault="004F5134" w:rsidP="009A7E63">-
+w14:paraId="2A9D3100" w14:textId="75DD0667" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">-
+w14:paraId="6B6D93A8" w14:textId="0E19D2B1" w:rsidR="00405F25" w:rsidRPr="000D04D2" w:rsidRDefault="000D04D2" w:rsidP="009A7E63">-
+w14:paraId="515BE4C6" w14:textId="77777777" w:rsidR="00AA345E" w:rsidRDefault="00AA345E" w:rsidP="00AA345E">
+w14:paraId="7D1E6B0E" w14:textId="426EC41F" w:rsidR="00BC43D8" w:rsidRDefault="005C5015" w:rsidP="00BC43D8">Запуск электродвигателя в прямом направлении
+w14:paraId="7308372E" w14:textId="33C490BD" w:rsidR="00412132" w:rsidRDefault="00412132" w:rsidP="00521432">Запуск установки возможен только при Отключенной S1 (Аварийный стоп).
+w14:paraId="25EB79A4" w14:textId="6ADAC40C" w:rsidR="009A3CB7" w:rsidRPr="009A3CB7" w:rsidRDefault="009A3CB7" w:rsidP="00521432">При Включенной S1 (Аварийный стоп) лампа индикации HL3 моргает с частотой 5Гц.
+w14:paraId="55A6505C" w14:textId="75E72040" w:rsidR="00412132" w:rsidRDefault="00412132" w:rsidP="00412132">Ф1
+w14:paraId="5874B710" w14:textId="37DAF52C" w:rsidR="00412132" w:rsidRPr="005C5015" w:rsidRDefault="00412132" w:rsidP="00521432">Нажатие и Удержание кнопки SB1 (Пуск/Стоп) в течении 5-ти секунд и при Отсутствии сигнала с SA1 (Пуск), включается K1 (Пуск) и М1 (Электродвигатель).
+w14:paraId="109FC61E" w14:textId="3BBED36D" w:rsidR="00412132" w:rsidRDefault="00412132" w:rsidP="00412132">Ф2
+w14:paraId="19212BE9" w14:textId="7DC434FC" w:rsidR="00601A54" w:rsidRPr="009E3AB2" w:rsidRDefault="009E3AB2" w:rsidP="00601A54">Во время Удержания SB1 (Пуск) (t = 0…5 сек) лампа индикации HL3 моргает с частотой 2Гц.
+w14:paraId="289E4404" w14:textId="061463D3" w:rsidR="00DF2994" w:rsidRDefault="009E3AB2" w:rsidP="00412132">Ф3
+w14:paraId="6AC6D070" w14:textId="696DB056" w:rsidR="00601A54" w:rsidRPr="009E3AB2" w:rsidRDefault="00AD1B5A" w:rsidP="00601A54">После запуска К1 лампы индикации HL3 и HL1 горят статично.
+w14:paraId="68373752" w14:textId="74B71CF8" w:rsidR="00601A54" w:rsidRDefault="00AD1B5A" w:rsidP="00412132">Ф4
+w14:paraId="4506DC3D" w14:textId="22E5D72B" w:rsidR="00AD1B5A" w:rsidRPr="001D2F93" w:rsidRDefault="00157C8D" w:rsidP="00601A54">Повторное Нажатие SB1 (Пуск/Стоп) отключает К1 (Пуск), М1 (Электродвигатель), лампы индикации HL3 и HL1.
+w14:paraId="333BE3DB" w14:textId="26EA28C1" w:rsidR="00AD1B5A" w:rsidRDefault="00AD1B5A" w:rsidP="00412132">Ф5
+w14:paraId="61C7CA47" w14:textId="099E3F6A" w:rsidR="00412132" w:rsidRDefault="00412132" w:rsidP="00BC43D8">
+w14:paraId="03084C49" w14:textId="1D4FB8AD" w:rsidR="009A3CB7" w:rsidRDefault="009A3CB7" w:rsidP="009A3CB7">Запуск электродвигателя в реверсивном направлении
+w14:paraId="7749F77F" w14:textId="77777777" w:rsidR="00705D4D" w:rsidRDefault="00705D4D" w:rsidP="00705D4D">Запуск установки возможен только при Отключенной S1 (Аварийный стоп).
+w14:paraId="70633727" w14:textId="5D26EF82" w:rsidR="009A3CB7" w:rsidRDefault="00705D4D" w:rsidP="00705D4D">При Включенной S1 (Аварийный стоп) лампа индикации HL3 моргает с частотой 5Гц.
+w14:paraId="2947BA93" w14:textId="4F57140D" w:rsidR="009A3CB7" w:rsidRDefault="009A3CB7" w:rsidP="006D03CA">Ф6
+w14:paraId="439213D2" w14:textId="55B5F5AC" w:rsidR="009A3CB7" w:rsidRPr="005C5015" w:rsidRDefault="009A3CB7" w:rsidP="006D03CA">Нажатие и Удержание кнопки SB1 (Пуск/Стоп) в течении 5-ти секунд и при Наличии сигнала с SA1 (Реверс), включается K2 (Реверс) и М1 (Электродвигатель).
+w14:paraId="560F47AA" w14:textId="21B10436" w:rsidR="009A3CB7" w:rsidRDefault="009A3CB7" w:rsidP="006D03CA">Ф7
+w14:paraId="7AF10392" w14:textId="766AFA98" w:rsidR="009A3CB7" w:rsidRPr="009E3AB2" w:rsidRDefault="009A3CB7" w:rsidP="006D03CA">Во время Удержания SB1 (Пуск) (t = 0…5 сек) лампа индикации HL3 моргает с частотой 4Гц.
+w14:paraId="0B22E896" w14:textId="2C50981C" w:rsidR="009A3CB7" w:rsidRDefault="009A3CB7" w:rsidP="006D03CA">Ф8
+w14:paraId="4A5A8825" w14:textId="5C0F5111" w:rsidR="009A3CB7" w:rsidRPr="009E3AB2" w:rsidRDefault="009A3CB7" w:rsidP="006D03CA">После запуска К1 лампы индикации HL3 и HL2 горят статично.
+w14:paraId="0E25DE38" w14:textId="29F94A9C" w:rsidR="009A3CB7" w:rsidRDefault="009A3CB7" w:rsidP="006D03CA">Ф9
+w14:paraId="44F25DB2" w14:textId="398E6351" w:rsidR="009A3CB7" w:rsidRPr="001D2F93" w:rsidRDefault="009A3CB7" w:rsidP="006D03CA">Повторное Нажатие SB1 (Пуск/Стоп) отключает К1 (Пуск), М1 (Электродвигатель), лампы индикации HL3 и HL2.
+w14:paraId="21014BD5" w14:textId="527CF13A" w:rsidR="009A3CB7" w:rsidRDefault="009A3CB7" w:rsidP="006D03CA">Ф10
+w14:paraId="16F38DE4" w14:textId="18972924" w:rsidR="009A3CB7" w:rsidRDefault="009A3CB7" w:rsidP="00BC43D8">

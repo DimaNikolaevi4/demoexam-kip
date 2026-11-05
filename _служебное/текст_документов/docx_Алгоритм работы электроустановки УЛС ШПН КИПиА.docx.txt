@@ -1,0 +1,84 @@
+
+
+w14:paraId="188B4E52" w14:textId="1C938757" w:rsidR="00AA345E" w:rsidRDefault="00D53095" w:rsidP="00AA345E">Алгоритм работы электроустановки
+w14:paraId="62BBCBD3" w14:textId="1A9DDB5B" w:rsidR="00DD3A55" w:rsidRDefault="00DD3A55" w:rsidP="00AA345E">Система управления уровнем
+w14:paraId="33486626" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00127D20" w:rsidRDefault="00405F25" w:rsidP="00C63F5D">DI
+w14:paraId="7B8388C8" w14:textId="6189A9D6" w:rsidR="00405F25" w:rsidRPr="007307BE" w:rsidRDefault="007307BE" w:rsidP="00C63F5D">Наименование
+w14:paraId="00235DB7" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00127D20" w:rsidRDefault="00405F25" w:rsidP="00C63F5D">DO
+w14:paraId="67CEEF19" w14:textId="2EFC1A04" w:rsidR="00405F25" w:rsidRPr="007307BE" w:rsidRDefault="007307BE" w:rsidP="00C63F5D">Наименование
+w14:paraId="14DEEBB0" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">1
+w14:paraId="4704763C" w14:textId="01F8D586" w:rsidR="00405F25" w:rsidRPr="006B29DD" w:rsidRDefault="005845CC" w:rsidP="009A7E63">SB1 – Пуск/Стоп системы
+w14:paraId="1138B796" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">1
+w14:paraId="47E7BC86" w14:textId="415E8E1B" w:rsidR="00405F25" w:rsidRPr="00013FF2" w:rsidRDefault="00013FF2" w:rsidP="009A7E63">HL1 – Пуск/Стоп системы
+w14:paraId="4FBBF0C7" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">2
+w14:paraId="7810DEAD" w14:textId="3128B6C8" w:rsidR="00405F25" w:rsidRPr="004F3363" w:rsidRDefault="005845CC" w:rsidP="009A7E63">SA1 – Переключатель Ручн/Авт
+w14:paraId="3A3B91A1" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">2
+w14:paraId="1A4E8DDB" w14:textId="432199B0" w:rsidR="00405F25" w:rsidRPr="00013FF2" w:rsidRDefault="00013FF2" w:rsidP="009A7E63">HL5 – Работа насоса
+w14:paraId="0C8A6AF0" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">3
+w14:paraId="35352971" w14:textId="557D3BC7" w:rsidR="00405F25" w:rsidRPr="004F3363" w:rsidRDefault="005845CC" w:rsidP="009A7E63">SA2 – Переключатель Работа/Сервис
+w14:paraId="5383ACFD" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">3
+w14:paraId="7D90570C" w14:textId="3DF1980B" w:rsidR="00405F25" w:rsidRPr="00013FF2" w:rsidRDefault="00013FF2" w:rsidP="009A7E63">HL6 - Авария
+w14:paraId="4E4B8967" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">4
+w14:paraId="42E309A6" w14:textId="460C5061" w:rsidR="00405F25" w:rsidRPr="00295C4D" w:rsidRDefault="005845CC" w:rsidP="009A7E63">SA3 – Переключатель Осн/Резерв
+w14:paraId="1AF60391" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">4
+w14:paraId="6AF3987B" w14:textId="685BDE15" w:rsidR="00405F25" w:rsidRPr="00013FF2" w:rsidRDefault="00013FF2" w:rsidP="009A7E63">HA1 - Звонок
+w14:paraId="45F760E7" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">5
+w14:paraId="3E4D68C4" w14:textId="498A12D2" w:rsidR="00405F25" w:rsidRPr="00AA345E" w:rsidRDefault="003827C5" w:rsidP="009A7E63">ВАУ – Верхний Аварийный Уровень
+w14:paraId="3AB901CB" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">5
+w14:paraId="6686935F" w14:textId="72E8920B" w:rsidR="00405F25" w:rsidRPr="00013FF2" w:rsidRDefault="00013FF2" w:rsidP="009A7E63">KM2 – Основной насос
+w14:paraId="798C699C" w14:textId="77777777" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">6
+w14:paraId="1ABC8E32" w14:textId="422CF6D9" w:rsidR="00405F25" w:rsidRPr="00AA345E" w:rsidRDefault="003827C5" w:rsidP="009A7E63">ВУ – Верхний Уровень
+w14:paraId="4EA7C5D7" w14:textId="14777C36" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">6
+w14:paraId="155DB35B" w14:textId="73A68658" w:rsidR="00405F25" w:rsidRPr="00013FF2" w:rsidRDefault="00013FF2" w:rsidP="009A7E63">KM3 – Резервный насос
+w14:paraId="0FBC8915" w14:textId="67B95B77" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">7
+w14:paraId="4EE3B2C9" w14:textId="3A73B2F5" w:rsidR="00405F25" w:rsidRDefault="003827C5" w:rsidP="009A7E63">НУ – Нижний Уровень
+w14:paraId="104E9FCA" w14:textId="1D0F7A8C" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">-
+w14:paraId="3354C8E6" w14:textId="6579D629" w:rsidR="00405F25" w:rsidRPr="000D04D2" w:rsidRDefault="000D04D2" w:rsidP="009A7E63">-
+w14:paraId="4555288D" w14:textId="0A1862D3" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">8
+w14:paraId="6F019425" w14:textId="432B5819" w:rsidR="00405F25" w:rsidRDefault="003827C5" w:rsidP="009A7E63">НАУ – Нижний Аварийный Уровень
+w14:paraId="2A9D3100" w14:textId="75DD0667" w:rsidR="00405F25" w:rsidRPr="00293AD6" w:rsidRDefault="00405F25" w:rsidP="00293AD6">-
+w14:paraId="6B6D93A8" w14:textId="0E19D2B1" w:rsidR="00405F25" w:rsidRPr="000D04D2" w:rsidRDefault="000D04D2" w:rsidP="009A7E63">-
+w14:paraId="515BE4C6" w14:textId="77777777" w:rsidR="00AA345E" w:rsidRDefault="00AA345E" w:rsidP="00AA345E">
+w14:paraId="4D646216" w14:textId="5A923001" w:rsidR="00AA345E" w:rsidRDefault="00192DC9" w:rsidP="00EB76D1">Выбор Режима Ручн/Авт
+w14:paraId="3548729A" w14:textId="2EB6C188" w:rsidR="00192DC9" w:rsidRDefault="00192DC9" w:rsidP="00EB76D1">Выбор режима Ручн/Авт осуществляется с помощью переключателя SA1 (0 – Ручной, 1 – Автоматический)
+w14:paraId="342B5972" w14:textId="55EDDDB9" w:rsidR="006E7E71" w:rsidRPr="00192DC9" w:rsidRDefault="006E7E71" w:rsidP="00EB76D1">Режим функционирует при работе режима Работа.
+w14:paraId="6EB03C55" w14:textId="02867EEB" w:rsidR="00991669" w:rsidRDefault="00991669" w:rsidP="00EB76D1">Выбор Режима Работа/Сервис
+w14:paraId="75C3E659" w14:textId="4D89E5E3" w:rsidR="00991669" w:rsidRDefault="00991669" w:rsidP="00EB76D1">Выбор режима Работа/Сервис осуществляется с помощью переключателя SA2 (0 – Работа, 1 – Сервис)
+w14:paraId="79A85DAB" w14:textId="77777777" w:rsidR="00B905AA" w:rsidRDefault="00B905AA" w:rsidP="00B905AA">Режим функционирует в любое время.
+w14:paraId="64D7DBB2" w14:textId="7695A50E" w:rsidR="001E2464" w:rsidRDefault="001E2464" w:rsidP="001E2464">Выбор Режима Осн/Резерв
+w14:paraId="5B3BBB63" w14:textId="0BDC3240" w:rsidR="001E2464" w:rsidRDefault="001E2464" w:rsidP="001E2464">Выбор режима Осн/Резерв осуществляется с помощью переключателя SA3 (0 – Основной, 1 – Резервный)
+w14:paraId="19807F85" w14:textId="2FAA2E16" w:rsidR="006E7E71" w:rsidRDefault="006E7E71" w:rsidP="001E2464">Режим функционирует в любое время.
+w14:paraId="7D1E6B0E" w14:textId="207CAA44" w:rsidR="00BC43D8" w:rsidRDefault="00BC43D8" w:rsidP="00BC43D8">Режим Ручной
+w14:paraId="4871A480" w14:textId="77777777" w:rsidR="00FC2B69" w:rsidRPr="00192DC9" w:rsidRDefault="00FC2B69" w:rsidP="00FC2B69">Режим функционирует при работе режима Работа.
+w14:paraId="6359E5C9" w14:textId="07CE9279" w:rsidR="00BC43D8" w:rsidRPr="00BC43D8" w:rsidRDefault="00FA53D6" w:rsidP="00BC43D8">В ручном режиме система автоматики отключается. 
+w14:paraId="14A078E7" w14:textId="02933AF5" w:rsidR="001167E3" w:rsidRDefault="001339E1" w:rsidP="00EB76D1">Нажатие и удержание кнопки SB1 (Пуск) в течении 5-ти секунд и при наличии сигналов с НАУ, НУ, ВУ включается HL5 и КМ2 или КМ3 (в зависимости от состояния режима Осн/Резерв).
+w14:paraId="22B520B0" w14:textId="25C8271B" w:rsidR="00564602" w:rsidRDefault="00C86367" w:rsidP="00EB76D1">Во время удержания SB1 (t=0…5 сек) работает HL1 и HA1.
+w14:paraId="7C6491BA" w14:textId="4BC24B2E" w:rsidR="00C86367" w:rsidRDefault="00C86367" w:rsidP="00EB76D1">Дальнейшее удержание SB1 (t>5сек) работает только HL1 и не вызывает реакции системы.
+w14:paraId="77CB0843" w14:textId="21F9D5BB" w:rsidR="0048303D" w:rsidRDefault="0048303D" w:rsidP="00EB76D1">При отключении сигналов с ВУ и НУ отключается HL1, HL5 и КМ2 или КМ3 (в зависимости от состояния режима Осн/Резерв).
+w14:paraId="06C872A4" w14:textId="4E109333" w:rsidR="00BA60AB" w:rsidRPr="008119C9" w:rsidRDefault="00BA60AB" w:rsidP="00EB76D1">Система переходит в изначальное состояние.
+w14:paraId="6015CF7A" w14:textId="17FF024A" w:rsidR="00C74EAA" w:rsidRDefault="00C74EAA" w:rsidP="00C74EAA">Режим Автоматический
+w14:paraId="1395F8CC" w14:textId="7B765F4E" w:rsidR="00C74EAA" w:rsidRDefault="00C74EAA" w:rsidP="00C74EAA">Режим функционирует при работе режима Работа.
+w14:paraId="07333231" w14:textId="5854657A" w:rsidR="00C74EAA" w:rsidRPr="00192DC9" w:rsidRDefault="00C74EAA" w:rsidP="00C74EAA">В автоматическом режиме ручное управление отключается.
+w14:paraId="7CCBE1D9" w14:textId="0A15D974" w:rsidR="00B77232" w:rsidRDefault="0067323F" w:rsidP="0067323F">Нажатие кнопки SB1 (Пуск/Стоп системы) включается HL1 и HA1. Через 5 секунд HA1 выключается и запускается система автоматического управления.
+w14:paraId="4084A40B" w14:textId="697F806C" w:rsidR="0067323F" w:rsidRDefault="009A760F" w:rsidP="0067323F">При наличии сигналов с НАУ, НУ, ВУ включается HL5 и КМ2 или КМ3 (в зависимости от состояния режима Осн/Резерв).
+w14:paraId="6F74778E" w14:textId="7AFAE17C" w:rsidR="0028421E" w:rsidRDefault="0028421E" w:rsidP="0028421E">При отключении сигналов с ВУ и НУ отключается HL5 и КМ2 или КМ3 (в зависимости от состояния режима Осн/Резерв).
+w14:paraId="19BEDB17" w14:textId="2B0E4AAF" w:rsidR="001167E3" w:rsidRPr="008119C9" w:rsidRDefault="00D02F6C" w:rsidP="00EB76D1">Система работает в цикле.
+w14:paraId="5D892D94" w14:textId="110B0BD3" w:rsidR="001167E3" w:rsidRDefault="00885885" w:rsidP="00EB76D1">Повторное нажатие кнопки SB1 (Пуск/Стоп системы) отключает HL1 и систему автоматического управления.
+w14:paraId="6FD1647F" w14:textId="7F5B542C" w:rsidR="00781115" w:rsidRDefault="00781115" w:rsidP="00EB76D1">
+w14:paraId="2C6F0E9A" w14:textId="2A086217" w:rsidR="007729F9" w:rsidRDefault="004F4C3E" w:rsidP="004F4C3E">Режим Авария
+w14:paraId="1EA7E66C" w14:textId="545F89BF" w:rsidR="00155DF1" w:rsidRDefault="002A235A" w:rsidP="00155DF1">Режим функционирует при работе режима Ручной или Автоматический.
+w14:paraId="29FC17AD" w14:textId="752A1A70" w:rsidR="002A235A" w:rsidRDefault="001D222C" w:rsidP="00155DF1">При отсутствии сигнала с НАУ – полная остановка режимов Ручной или Автоматический, индикация HL6 с частотой 2Гц.
+w14:paraId="6B454348" w14:textId="0EFF68D2" w:rsidR="008027FE" w:rsidRPr="001D222C" w:rsidRDefault="008027FE" w:rsidP="00155DF1">При наличии сигнала с ВАУ – полная остановка режимов Ручной или Автоматический, индикация HL6 с частотой 4Гц.
+w14:paraId="3F568BB6" w14:textId="77777777" w:rsidR="00A91568" w:rsidRDefault="00A91568" w:rsidP="00A91568">Режим Сервис
+w14:paraId="763AA074" w14:textId="77777777" w:rsidR="00A91568" w:rsidRDefault="00A91568" w:rsidP="00A91568">При работе этого режима режимы Ручной, Автоматический и Авария не функционируют.
+w14:paraId="422A6C17" w14:textId="77777777" w:rsidR="00A91568" w:rsidRDefault="00A91568" w:rsidP="00A91568">Проверка сигналов датчиков уровня:
+w14:paraId="70818233" w14:textId="598571F4" w:rsidR="00A91568" w:rsidRPr="00CD5A9E" w:rsidRDefault="00A91568" w:rsidP="00A91568">Наличие сигнала только с НАУ – индикация HL6 с частотой 1Гц.
+w14:paraId="336CC22F" w14:textId="66CCF77D" w:rsidR="00A91568" w:rsidRPr="00CD5A9E" w:rsidRDefault="00A91568" w:rsidP="00A91568">Наличие сигнала только с НУ – индикация HL6 с частотой 2Гц.
+w14:paraId="6E624F07" w14:textId="7D9C57DE" w:rsidR="00A91568" w:rsidRPr="00CD5A9E" w:rsidRDefault="00A91568" w:rsidP="00A91568">Наличие сигнала только с ВУ – индикация HL6 с частотой 4Гц.
+w14:paraId="4C7EA419" w14:textId="4DCD62D7" w:rsidR="00A91568" w:rsidRDefault="00A91568" w:rsidP="00A91568">Наличие сигнала только с ВАУ – индикация HL6 с частотой 5Гц.
+w14:paraId="316A23EE" w14:textId="77777777" w:rsidR="00A91568" w:rsidRDefault="00A91568" w:rsidP="00A91568">Проверка функционирования устройств:
+w14:paraId="4FF13AED" w14:textId="77777777" w:rsidR="00A91568" w:rsidRDefault="00A91568" w:rsidP="00A91568">Нажатие SB1 1 раз – включение HL1.
+w14:paraId="746E6B4A" w14:textId="77777777" w:rsidR="00A91568" w:rsidRPr="00733E33" w:rsidRDefault="00A91568" w:rsidP="00A91568">Нажатие SB1 2 раз – включение HA1.
+w14:paraId="4B16E3E1" w14:textId="0A3A3A42" w:rsidR="00A91568" w:rsidRDefault="00A91568" w:rsidP="00A91568">Нажатие SB1 3 раз – отключение HA1 и включение HL5 и КМ2 или КМ3 (в зависимости от состояния режима Осн/Резерв).
+w14:paraId="4830FB17" w14:textId="0A57AF25" w:rsidR="00A91568" w:rsidRDefault="00A91568" w:rsidP="00A91568">Нажатие SB1 4 раз – отключение HL1, HL5 и КМ2 или КМ3 (в зависимости от состояния режима Осн/Резерв) и возврат в исходное состояние.
+w14:paraId="65B9E3D4" w14:textId="3AA0888D" w:rsidR="004347A3" w:rsidRPr="00956731" w:rsidRDefault="004347A3" w:rsidP="00214C5D">
