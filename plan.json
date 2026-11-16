@@ -9,6 +9,16 @@
       "why": "",
       "link": "docs/prep-plan-draft.md",
       "source": "owner"
+    },
+    {
+      "id": "de-2026-11",
+      "title": "Ноябрь - старт задания 1: стенд УЛС ШПН, ПЭС и монтажная схема, алгоритм, методика локализации неисправностей, пробное З1 без времени",
+      "when": "2026-11-30",
+      "time": null,
+      "status": "in-progress",
+      "why": "",
+      "link": "docs/prep-plan-draft.md",
+      "source": "owner"
     }
   ]
 }
