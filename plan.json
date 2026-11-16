@@ -69,6 +69,16 @@
       "why": "",
       "link": "docs/prep-plan-draft.md",
       "source": "owner"
+    },
+    {
+      "id": "de-2027-05",
+      "title": "Май - отработка слабых мест по итогам апреля, 1-2 финальных прогона в режиме ДЭ, подготовительный день, ДЭ в конце мая",
+      "when": "2027-05-31",
+      "time": null,
+      "status": "todo",
+      "why": "",
+      "link": "docs/prep-plan-draft.md",
+      "source": "owner"
     }
   ]
 }
