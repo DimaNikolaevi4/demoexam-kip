@@ -16,9 +16,9 @@
       "when": "2026-11-30",
       "time": null,
       "status": "in-progress",
-      "why": "",
+      "why": "работа с детьми по плану компетенций; материалы для студентов готовы: docs/training/Задание_1_обучение_поиск_неисправностей.docx",
       "link": "docs/prep-plan.md",
-      "source": "owner"
+      "source": "agent"
     },
     {
       "id": "de-2026-12",
