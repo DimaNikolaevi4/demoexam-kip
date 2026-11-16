@@ -19,6 +19,16 @@
       "why": "",
       "link": "docs/prep-plan-draft.md",
       "source": "owner"
+    },
+    {
+      "id": "de-2026-12",
+      "title": "Декабрь - З1 на время 30 мин до автоматизма + вход в З2: разметка, DIN-рейки, установка оборудования в ШУ и на стене, маркировка. Контроль: срез З1 на время",
+      "when": "2026-12-31",
+      "time": null,
+      "status": "todo",
+      "why": "",
+      "link": "docs/prep-plan-draft.md",
+      "source": "owner"
     }
   ]
 }
