@@ -59,6 +59,16 @@
       "why": "",
       "link": "docs/prep-plan-draft.md",
       "source": "owner"
+    },
+    {
+      "id": "de-2027-04",
+      "title": "Апрель - полные репетиции ДЭ: 2 прогона всех 4 заданий подряд по регламенту с оценками сразу после каждого задания, таблица слабых мест на студента",
+      "when": "2027-04-30",
+      "time": null,
+      "status": "todo",
+      "why": "",
+      "link": "docs/prep-plan-draft.md",
+      "source": "owner"
     }
   ]
 }
